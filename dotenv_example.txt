@@ -1,0 +1,2 @@
+OPENAI_API_KEY="sk-4242......."
+#replace with your own API key and rename this file to ".env"
