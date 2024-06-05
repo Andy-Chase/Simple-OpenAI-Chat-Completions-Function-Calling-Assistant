@@ -5,6 +5,9 @@ This repository provides a simple demonstration of an OpenAI Chat Completions as
 
 This project needs only an OpenAI API Key and uses the DuckDuckGo API to search the web. In future, I will be adding more examples with more expansive features like Long-term memory, web search APIs (Tavily, SerpAPI and others) and web automation. I just wanted to keep this one as simple as possible as an introduction to function calling. 
 
+## Sample usage
+![Alt text](Sample_usage.png)
+
 ## Project Structure
 
 - `main.py`: Entry point of the application. Handles the interaction with the OpenAI API and manages the conversation flow.
