@@ -1,0 +1,6 @@
+python-dotenv
+openai
+termcolor
+youtube_transcript_api
+requests
+beautifulsoup4
